@@ -40,8 +40,8 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
     Toolbar toolbar;
     CardView Bus,Teacher;
 
-    private static final String ONESIGNAL_APP_ID = "0dc45e20-8423-40e8-8a7f-9e0c54770757";
-
+   // private static final String ONESIGNAL_APP_ID = "0dc45e20-8423-40e8-8a7f-9e0c54770757";
+   private static final String ONESIGNAL_APP_ID = "ef601fd7-2c60-47c4-a600-b3b23196f096";
     @SuppressLint("MissingInflatedId")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -50,10 +50,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
         // Setup Notification for my Apps
 
-        // Enable verbose OneSignal logging to debug issues if needed.
         OneSignal.setLogLevel(OneSignal.LOG_LEVEL.VERBOSE, OneSignal.LOG_LEVEL.NONE);
-
-        // OneSignal Initialization
         OneSignal.initWithContext(this);
         OneSignal.setAppId(ONESIGNAL_APP_ID);
         OneSignal.promptForPushNotifications();
