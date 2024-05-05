@@ -36,7 +36,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
-                android:text="Batch"
+                android:text="Blood Bank"
                 android:textAppearance="?android:textAppearanceLarge"
                 android:textStyle="bold"
                 >
@@ -103,7 +103,7 @@
                             android:textStyle="bold"
                             android:fontFamily="serif"
                             android:layout_marginTop="1dp"
-                            android:textSize="40dp"
+                            android:textSize="25dp"
                             />
 
                     </LinearLayout>
@@ -151,7 +151,7 @@
                             android:textStyle="bold"
                             android:fontFamily="serif"
                             android:layout_marginTop="1dp"
-                            android:textSize="40dp"
+                            android:textSize="25dp"
                             />
 
                     </LinearLayout>
@@ -199,7 +199,7 @@
                             android:textStyle="bold"
                             android:fontFamily="serif"
                             android:layout_marginTop="1dp"
-                            android:textSize="40dp"
+                            android:textSize="25dp"
                             />
 
                     </LinearLayout>
@@ -246,7 +246,7 @@
                             android:textStyle="bold"
                             android:fontFamily="serif"
                             android:layout_marginTop="1dp"
-                            android:textSize="40dp"
+                            android:textSize="25dp"
                             />
 
                     </LinearLayout>
@@ -293,7 +293,7 @@
                             android:textStyle="bold"
                             android:fontFamily="serif"
                             android:layout_marginTop="1dp"
-                            android:textSize="40dp"
+                            android:textSize="25dp"
                             />
 
                     </LinearLayout>
@@ -340,7 +340,7 @@
                             android:textStyle="bold"
                             android:fontFamily="serif"
                             android:layout_marginTop="1dp"
-                            android:textSize="40dp"
+                            android:textSize="25dp"
                             />
 
                     </LinearLayout>
@@ -387,7 +387,7 @@
                             android:textStyle="bold"
                             android:fontFamily="serif"
                             android:layout_marginTop="1dp"
-                            android:textSize="40dp"
+                            android:textSize="25dp"
                             />
 
                     </LinearLayout>
@@ -435,7 +435,7 @@
                             android:textStyle="bold"
                             android:fontFamily="serif"
                             android:layout_marginTop="1dp"
-                            android:textSize="40dp"
+                            android:textSize="25dp"
                             />
 
                     </LinearLayout>

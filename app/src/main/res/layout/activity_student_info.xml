@@ -98,12 +98,19 @@ tools:context=".StudentInfo">
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="@string/_1st_batch"
+
                             android:textAppearance="?android:textAppearanceLarge"
                             android:textColor="@color/meterial_ash"
                             android:textStyle="bold"
                             android:fontFamily="serif"
                             android:layout_marginTop="1dp"
                             />
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Session : 2003-04"
+                            ></TextView>
+
 
                     </LinearLayout>
 
@@ -150,6 +157,11 @@ tools:context=".StudentInfo">
                             android:fontFamily="serif"
                             android:layout_marginTop="1dp"
                             />
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Session : 2004-05"
+                            ></TextView>
 
                     </LinearLayout>
 
@@ -196,6 +208,11 @@ tools:context=".StudentInfo">
                             android:fontFamily="serif"
                             android:layout_marginTop="1dp"
                             />
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Session : 2005-06"
+                            ></TextView>
 
                     </LinearLayout>
 
@@ -242,6 +259,11 @@ tools:context=".StudentInfo">
                             android:fontFamily="serif"
                             android:layout_marginTop="1dp"
                             />
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Session : 2006-07"
+                            ></TextView>
 
                     </LinearLayout>
 
@@ -288,6 +310,11 @@ tools:context=".StudentInfo">
                             android:fontFamily="serif"
                             android:layout_marginTop="1dp"
                             />
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Session : 2007-08"
+                            ></TextView>
 
                     </LinearLayout>
 
@@ -334,6 +361,11 @@ tools:context=".StudentInfo">
                             android:fontFamily="serif"
                             android:layout_marginTop="1dp"
                             />
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Session : 2008-09"
+                            ></TextView>
 
                     </LinearLayout>
 
@@ -380,6 +412,11 @@ tools:context=".StudentInfo">
                             android:fontFamily="serif"
                             android:layout_marginTop="1dp"
                             />
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Session : 2009-10"
+                            ></TextView>
 
                     </LinearLayout>
 
@@ -426,6 +463,11 @@ tools:context=".StudentInfo">
                             android:fontFamily="serif"
                             android:layout_marginTop="1dp"
                             />
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Session : 2010-11"
+                            ></TextView>
 
                     </LinearLayout>
 
@@ -472,6 +514,11 @@ tools:context=".StudentInfo">
                             android:fontFamily="serif"
                             android:layout_marginTop="1dp"
                             />
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Session : 2011-12"
+                            ></TextView>
 
                     </LinearLayout>
 
@@ -518,6 +565,11 @@ tools:context=".StudentInfo">
                             android:fontFamily="serif"
                             android:layout_marginTop="1dp"
                             />
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Session : 2012-13"
+                            ></TextView>
 
                     </LinearLayout>
 
@@ -564,6 +616,11 @@ tools:context=".StudentInfo">
                             android:fontFamily="serif"
                             android:layout_marginTop="1dp"
                             />
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Session : 2013-14"
+                            ></TextView>
 
                     </LinearLayout>
 
@@ -610,6 +667,11 @@ tools:context=".StudentInfo">
                             android:fontFamily="serif"
                             android:layout_marginTop="1dp"
                             />
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Session : 2014-15"
+                            ></TextView>
 
                     </LinearLayout>
 
@@ -656,6 +718,11 @@ tools:context=".StudentInfo">
                             android:fontFamily="serif"
                             android:layout_marginTop="1dp"
                             />
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Session : 2015-16"
+                            ></TextView>
 
                     </LinearLayout>
 
@@ -702,6 +769,11 @@ tools:context=".StudentInfo">
                             android:fontFamily="serif"
                             android:layout_marginTop="1dp"
                             />
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Session : 2016-17"
+                            ></TextView>
 
                     </LinearLayout>
 
@@ -748,6 +820,11 @@ tools:context=".StudentInfo">
                             android:fontFamily="serif"
                             android:layout_marginTop="1dp"
                             />
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Session : 2017-18"
+                            ></TextView>
 
                     </LinearLayout>
 
@@ -794,6 +871,11 @@ tools:context=".StudentInfo">
                             android:fontFamily="serif"
                             android:layout_marginTop="1dp"
                             />
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Session : 2018-19"
+                            ></TextView>
 
                     </LinearLayout>
 
@@ -840,6 +922,11 @@ tools:context=".StudentInfo">
                             android:fontFamily="serif"
                             android:layout_marginTop="1dp"
                             />
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Session : 2019-20"
+                            ></TextView>
 
                     </LinearLayout>
 
@@ -886,6 +973,11 @@ tools:context=".StudentInfo">
                             android:fontFamily="serif"
                             android:layout_marginTop="1dp"
                             />
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Session : 2020-21"
+                            ></TextView>
 
                     </LinearLayout>
 
@@ -932,6 +1024,11 @@ tools:context=".StudentInfo">
                             android:fontFamily="serif"
                             android:layout_marginTop="1dp"
                             />
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Session : 2021-22"
+                            ></TextView>
 
                     </LinearLayout>
 
@@ -978,6 +1075,11 @@ tools:context=".StudentInfo">
                             android:fontFamily="serif"
                             android:layout_marginTop="1dp"
                             />
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Session : 2022-23"
+                            ></TextView>
 
                     </LinearLayout>
 
@@ -1024,6 +1126,11 @@ tools:context=".StudentInfo">
                             android:fontFamily="serif"
                             android:layout_marginTop="1dp"
                             />
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Session : 2023-24"
+                            ></TextView>
 
                     </LinearLayout>
 
@@ -1070,6 +1177,11 @@ tools:context=".StudentInfo">
                             android:fontFamily="serif"
                             android:layout_marginTop="1dp"
                             />
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Session : 2024-25"
+                            ></TextView>
 
                     </LinearLayout>
 
@@ -1116,6 +1228,11 @@ tools:context=".StudentInfo">
                             android:fontFamily="serif"
                             android:layout_marginTop="1dp"
                             />
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Session : 2025-26"
+                            ></TextView>
 
                     </LinearLayout>
 

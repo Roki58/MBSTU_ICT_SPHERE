@@ -49,7 +49,12 @@ public class showInfo2 extends AppCompatActivity {
 //            startActivity(intent);
 //        }
 //    }
-
+public void bloodbankID(View view){
+    if (view.getId()==R.id.BloodBackBackID){
+        Intent intent = new Intent(showInfo2.this,Blood_info.class);
+        startActivity(intent);
+    }
+}
 
     @Override
     protected void onStart() {
